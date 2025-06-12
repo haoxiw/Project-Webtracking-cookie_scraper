@@ -1,0 +1,26 @@
+{
+    "url": "https://www.google.com",
+    "timestamp": "2025-05-24T12:47:23.310495",
+    "cookies": [
+        {
+            "name": "AEC",
+            "value": "AVh_V2iYFMmauazkFIV7HPdcD3A03CKZ-9YxdAh8Iy_TDsv32pGnNTmhk9E",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": "Thu, 20-Nov-2025 04:47:23 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": "lax"
+        },
+        {
+            "name": "NID",
+            "value": "524=J-awDaGWhnNlsHb6RH0qYTnazTqwqNR98_oCUW0FNrX3tNz4O49plFo8xJhidealvduB-So7NL0GA4l4anz_TzsQjsJpnQP9dEMr6Hx6bOCnSQvAtKJV0uUPAURt5c6yrkuDvaeRaUauER6shZ6fZzIbnt6GnpVlyTZMmIvC19C_2ar2q94LfdXGJiheACfK3y-6swVb8k2pGt0lAE9rtWVV",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": "Sun, 23-Nov-2025 04:47:23 GMT",
+            "secure": false,
+            "httponly": true,
+            "samesite": ""
+        }
+    ]
+}

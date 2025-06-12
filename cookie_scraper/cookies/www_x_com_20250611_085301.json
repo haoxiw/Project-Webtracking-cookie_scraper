@@ -1,0 +1,23 @@
+{
+    "url": "https://www.x.com",
+    "timestamp": "2025-06-11T08:53:01.514115",
+    "cookies": [
+        {
+            "name": "__cf_bm",
+            "value": "P1OXOEfp2EmuLBZyz3L0P2o9l3x5k.r3GhglXN483kg-1749603181-1.0.1.1-Y5MXMBJWhW_YbYnLVBs1lHSoApnypkV0gWXd.hvS9Fn4pyIGok7fT0XkTR2.kAe9MSqsjmA16Pi8lP8KrwrkU90G7_13zBp.m79bEBAFQa4",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": "Wed, 11-Jun-25 01:23:01 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        }
+    ],
+    "source": "scrapy"
+}

@@ -1,0 +1,39 @@
+{
+    "url": "https://www.google.com",
+    "timestamp": "2025-06-10T16:20:29.046944",
+    "cookies": [
+        {
+            "name": "AEC",
+            "value": "AVh_V2jXlY_CAv3_mGlVr68E-6XmQDrv2O2k1g0nUVlDvxnc8Re-y5B-jxQ",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": "Sun, 07-Dec-2025 08:20:28 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": "lax",
+            "age": {
+                "seconds": 15523198.953438044,
+                "days": 179.66665455368107,
+                "readable": "5 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "NID",
+            "value": "524=Fj-yt6HKLhmYPo8UJC5XfTb27Llio1ml5LFAT5fv9S75RoFeDeIZQxwAjA6CiOJDAgm70F6UWwqliOlgoSMxU4taMWmF4kDDL3aZXhyekUDUr2xk4UR68bgjs5lC27Fynj7UmVwIeWKwyFSl_1DTG1l9XN1ZMF0m8V01fUU336KK_WG9tZYOpPElPhmE732JFiiB8MiR7bMCo3Wg-nxd14mv",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": "Wed, 10-Dec-2025 08:20:28 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": "none",
+            "age": {
+                "seconds": 15782398.953360796,
+                "days": 182.66665455278698,
+                "readable": "6 months",
+                "is_session": false
+            }
+        }
+    ],
+    "source": "scrapy"
+}

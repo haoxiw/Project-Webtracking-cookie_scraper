@@ -1,0 +1,25 @@
+{
+    "url": "https://www.amazon.com",
+    "timestamp": "2025-05-26T16:28:42.560532",
+    "cookies": [
+        {
+            "name": "csm-sid",
+            "value": "324-2384288-9790732",
+            "domain": "www.amazon.com",
+            "path": "/",
+            "expires": 1750614881,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 2366758.4562780857,
+                "days": 27.39303768840377,
+                "readable": "27 days",
+                "is_session": false
+            }
+        }
+    ],
+    "localStorage": {},
+    "sessionStorage": {},
+    "source": "selenium"
+}

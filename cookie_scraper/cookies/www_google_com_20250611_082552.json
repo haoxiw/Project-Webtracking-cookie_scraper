@@ -1,0 +1,166 @@
+{
+    "url": "https://www.google.com",
+    "timestamp": "2025-06-11T08:25:52.654426",
+    "cookies": [
+        {
+            "name": "_gid",
+            "value": "GA1.3.746008727.1749601543",
+            "domain": ".ads.google.com",
+            "path": "/",
+            "expires": 1749687942,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 86389.35393500328,
+                "days": 0.9998767816551306,
+                "readable": "23 hours",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Google Analytics"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.3.292928789.1749601542",
+            "domain": ".ads.google.com",
+            "path": "/",
+            "expires": 1784161542,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 34559989.353935,
+                "days": 399.99987678165513,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "_ga_J51Y85KVRZ",
+            "value": "GS2.1.s1749601542$o1$g0$t1749601542$j60$l0$h0",
+            "domain": ".ads.google.com",
+            "path": "/",
+            "expires": 1784161542,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 34559989.353935,
+                "days": 399.99987678165513,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "ADS_VISITOR_ID",
+            "value": "d5e8dc8c-bd69-43d4-8dc0-64bce49a9756",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1757377539,
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 7775986.353935003,
+                "days": 89.99984205943291,
+                "readable": "2 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "_gcl_au",
+            "value": "1.1.1782168936.1749601539",
+            "domain": ".ads.google.com",
+            "path": "/",
+            "expires": 1757377539,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 7775986.353935003,
+                "days": 89.99984205943291,
+                "readable": "2 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "_gat_UA-113093516-1",
+            "value": "1",
+            "domain": ".ads.google.com",
+            "path": "/",
+            "expires": 1749601602,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 49.35393500328064,
+                "days": 0.0005712260995750074,
+                "readable": "0 minutes",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "NID",
+            "value": "524=aUknxCvQhw4fIhYURWGUdSCyWP9z0KihsBQAE8VEBryAofzmnnYwcEddXv70Uez_skLrtL4d4X0EoX0N4HVf9s954vAUZQcXp4sdS8EfX-qSaduSgjflePTZgkB_qdyBl19em7vOY76opSfpzPAfp7N0eRyW9UQIYXzzb_d0QTrxLvLZhOsOa1z6piLHvjKnNYuJmwGA-Bsnr5ti9opvo3PUtPantQWaAhwaCIBA",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1765412716,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 15811163.353935003,
+                "days": 182.9995758557292,
+                "readable": "6 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "AEC",
+            "value": "AVh_V2gy_ZOJZLJzCLh8d5XvWhWD_-nSjeLkOpq2PPnbM3jbciS3G_smRac",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1765153528,
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 15551975.353935003,
+                "days": 179.9997147446181,
+                "readable": "5 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Unknown"
+        }
+    ],
+    "localStorage": {
+        "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"creationTimeMs\":1749601542456},\"expires\":1757377542456}}",
+        "acx_jsPrefetch_records": "[{\"src\":\"https://www.gstatic.com/_/awn-essentials-mss/_/js/k=awn-essentials-mss.essentials_mss_set.en_US.QqugJT9koTU.es6.O/d=1/br=1/wt=0/rs=AIw_rMq0MJ3F7CFHVJFKWAp_J1AqgBqZhA/m=_c,_b\",\"origin\":\"lead_in_page\",\"timestamp\":1749601549439},{\"src\":\"https://www.gstatic.com/_/awn-essentials-mss/_/js/k=awn-essentials-mss.essentials_mss_set.en_US.QqugJT9koTU.es6.O/d=1/br=1/wt=0/rs=AIw_rMq0MJ3F7CFHVJFKWAp_J1AqgBqZhA/m=_c,_b\",\"origin\":\"lead_in_page\",\"timestamp\":1749601549439},{\"src\":\"https://www.gstatic.com/_/awn-awsm-mss/_/js/k=awn-awsm-mss.awsm_mss.en_US.otLTWMJjqIk.es6.O/d=1/br=1/wt=0/rs=AIWkqsPOwZOEi_hSxdEDxLRKXkvJXe6CAQ/m=_c,_b\",\"origin\":\"lead_in_page\",\"timestamp\":1749601549801},{\"src\":\"https://www.gstatic.com/awn/express//brt/awn_express_auto_20250609-0457_RC000/aw_express/management/main.dart.js\",\"origin\":\"lead_in_page\",\"timestamp\":1749601549948},{\"src\":\"https://www.gstatic.com/_/awn-cm-mss/_/js/k=awn-cm-mss.cmediting_mss.en_US.cS4LHISftuk.es6.O/d=1/br=1/wt=0/rs=ADMiOG7kcpM2jscV4-CckLV5EJ3Rqzicpg/m=_c,_b\",\"origin\":\"lead_in_page\",\"timestamp\":1749601550086},{\"src\":\"https://www.gstatic.com/_/awn-cm-mss/_/js/k=awn-cm-mss.cmediting_mss.en_US.cS4LHISftuk.es6.O/d=1/br=1/wt=0/rs=ADMiOG7kcpM2jscV4-CckLV5EJ3Rqzicpg/m=signup_business_flow_lib,signup_module\",\"origin\":\"lead_in_page\",\"timestamp\":1749601550131},{\"src\":\"https://www.gstatic.com/awn/accountonboarding/awn_accountonboarding_ui_auto_20250610-0607_RC000/aw_accountonboarding_lite/main_lite.dart.js\",\"origin\":\"lead_in_page\",\"timestamp\":1749601550249},{\"src\":\"https://www.gstatic.com/awn/accountonboarding/awn_accountonboarding_ui_auto_20250610-0607_RC000/aw_accountonboarding_lite/main_lite.dart.js.bundle.ayb_signup_business.js\",\"origin\":\"lead_in_page\",\"timestamp\":1749601550371}]"
+    },
+    "sessionStorage": {},
+    "source": "selenium",
+    "third_party_cookies": [],
+    "third_party_count": 0
+}

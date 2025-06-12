@@ -1,0 +1,94 @@
+{
+    "url": "https://www.facebook.com",
+    "timestamp": "2025-06-10T16:25:35.092613",
+    "cookies": [
+        {
+            "name": "wd",
+            "value": "1920x941",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1750148729,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 604793.9196138382,
+                "days": 6.999929625160164,
+                "readable": "6 days",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: facebook.com, Cookie: facebook.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "sb",
+            "value": "8OtHaKXgMPMjkxhcdgDiHhal",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1784103921,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559985.91961384,
+                "days": 399.9998370325676,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: facebook.com, Cookie: facebook.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "fr",
+            "value": "0j6XFWf6gahr8PQUy..BoR-vw..AAA.0.0.BoR-vw.AWf5RKN7pOnOxVkO61W4Vn4XK20",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1757319921,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 7775985.919613838,
+                "days": 89.99983703256757,
+                "readable": "2 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: facebook.com, Cookie: facebook.com",
+            "tracking_purpose": "Facebook Tracking"
+        },
+        {
+            "name": "datr",
+            "value": "8OtHaLhLoVIjfjDoE3N5Sh-a",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1784103921,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559985.91961384,
+                "days": 399.9998370325676,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: facebook.com, Cookie: facebook.com",
+            "tracking_purpose": "Unknown"
+        }
+    ],
+    "localStorage": {
+        "Session": "vnhcyz:1749543964939",
+        "hb_timestamp": "1749543924699",
+        "signal_flush_timestamp": "1749543924707"
+    },
+    "sessionStorage": {
+        "TabId": "hlk36r",
+        "sp_pi": "{\"pageInfo\":{\"scriptPath\":\"XIndexReduxController\",\"categoryToken\":\"a1f3c513\",\"extraData\":{\"imp_id\":\"1CQMrYjpwpT5FOtrA\",\"ef_page\":null,\"uri\":\"https://www.facebook.com/\"}},\"clickPoint\":null,\"time\":1749543924734}"
+    },
+    "source": "selenium",
+    "third_party_cookies": [],
+    "third_party_count": 0
+}

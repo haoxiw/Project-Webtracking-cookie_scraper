@@ -1,0 +1,166 @@
+{
+    "url": "https://www.google.com",
+    "timestamp": "2025-06-11T08:49:09.155587",
+    "cookies": [
+        {
+            "name": "_gid",
+            "value": "GA1.3.138478332.1749602939",
+            "domain": ".ads.google.com",
+            "path": "/",
+            "expires": 1749689339,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 86389.86275100708,
+                "days": 0.9998826707292486,
+                "readable": "23 hours",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Google Analytics"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.3.462617896.1749602938",
+            "domain": ".ads.google.com",
+            "path": "/",
+            "expires": 1784162939,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 34559989.86275101,
+                "days": 399.9998826707292,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "_ga_J51Y85KVRZ",
+            "value": "GS2.1.s1749602938$o1$g0$t1749602938$j60$l0$h0",
+            "domain": ".ads.google.com",
+            "path": "/",
+            "expires": 1784162938,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 34559988.86275101,
+                "days": 399.99987109665517,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "ADS_VISITOR_ID",
+            "value": "daa56b0e-d392-4e84-85b2-518995b9a519",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1757378936,
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 7775986.862751007,
+                "days": 89.99984794850702,
+                "readable": "2 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "_gcl_au",
+            "value": "1.1.1486005924.1749602936",
+            "domain": ".ads.google.com",
+            "path": "/",
+            "expires": 1757378936,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 7775986.862751007,
+                "days": 89.99984794850702,
+                "readable": "2 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "_gat_UA-113093516-1",
+            "value": "1",
+            "domain": ".ads.google.com",
+            "path": "/",
+            "expires": 1749602999,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 49.86275100708008,
+                "days": 0.0005771151736930565,
+                "readable": "0 minutes",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "NID",
+            "value": "524=KSiDREuaRrbxQXrah5Ymy4bIOSlbAJo4rNpe6WgArftUNYpp2t_sgCwYf0EoFo5Pe5lfnBGAIheFllMN8GizNNWQdyXIY3h-dxkQafNkGrtkmOav2J-Jj9DkbbILhc7D_-U2fhMKqMge5vaqJMRRTYmEjA-d0XZayxyfDIj_zhallJ0dfZZAk_1lyLQsadyiQeYuFOeHZ0T8_4MbzJsme9g6_zusni2AsPw",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1765414111,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 15811161.862751007,
+                "days": 182.99955859665516,
+                "readable": "6 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "AEC",
+            "value": "AVh_V2iC9wNnlcup3hgxxvT9dETk_KSnMoXACvdiuqgQrzNiMafQCflBaQ",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1765154924,
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 15551974.862751007,
+                "days": 179.99970905961814,
+                "readable": "5 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: google.com, Cookie: google.com",
+            "tracking_purpose": "Unknown"
+        }
+    ],
+    "localStorage": {
+        "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"creationTimeMs\":1749602940901},\"expires\":1757378940901}}",
+        "acx_jsPrefetch_records": "[{\"src\":\"https://www.gstatic.com/_/awn-awsm-mss/_/js/k=awn-awsm-mss.awsm_mss.en_US.otLTWMJjqIk.es6.O/d=1/br=1/wt=0/rs=AIWkqsPOwZOEi_hSxdEDxLRKXkvJXe6CAQ/m=_c,_b\",\"origin\":\"lead_in_page\",\"timestamp\":1749602945676},{\"src\":\"https://www.gstatic.com/_/awn-essentials-mss/_/js/k=awn-essentials-mss.essentials_mss_set.en_US.QqugJT9koTU.es6.O/d=1/br=1/wt=0/rs=AIw_rMq0MJ3F7CFHVJFKWAp_J1AqgBqZhA/m=_c,_b\",\"origin\":\"lead_in_page\",\"timestamp\":1749602945882},{\"src\":\"https://www.gstatic.com/_/awn-essentials-mss/_/js/k=awn-essentials-mss.essentials_mss_set.en_US.QqugJT9koTU.es6.O/d=1/br=1/wt=0/rs=AIw_rMq0MJ3F7CFHVJFKWAp_J1AqgBqZhA/m=_c,_b\",\"origin\":\"lead_in_page\",\"timestamp\":1749602945882},{\"src\":\"https://www.gstatic.com/awn/express//brt/awn_express_auto_20250609-0457_RC000/aw_express/management/main.dart.js\",\"origin\":\"lead_in_page\",\"timestamp\":1749602946037},{\"src\":\"https://www.gstatic.com/awn/accountonboarding/awn_accountonboarding_ui_auto_20250609-0407_RC000/aw_accountonboarding_lite/main_lite.dart.js\",\"origin\":\"lead_in_page\",\"timestamp\":1749602946111},{\"src\":\"https://www.gstatic.com/awn/accountonboarding/awn_accountonboarding_ui_auto_20250609-0407_RC000/aw_accountonboarding_lite/main_lite.dart.js.bundle.ayb_signup_business.js\",\"origin\":\"lead_in_page\",\"timestamp\":1749602946189},{\"src\":\"https://www.gstatic.com/_/awn-cm-mss/_/js/k=awn-cm-mss.cmediting_mss.en_US.cS4LHISftuk.es6.O/d=1/br=1/wt=0/rs=ADMiOG7kcpM2jscV4-CckLV5EJ3Rqzicpg/m=_c,_b\",\"origin\":\"lead_in_page\",\"timestamp\":1749602946374},{\"src\":\"https://www.gstatic.com/_/awn-cm-mss/_/js/k=awn-cm-mss.cmediting_mss.en_US.cS4LHISftuk.es6.O/d=1/br=1/wt=0/rs=ADMiOG7kcpM2jscV4-CckLV5EJ3Rqzicpg/m=signup_business_flow_lib,signup_module\",\"origin\":\"lead_in_page\",\"timestamp\":1749602946411}]"
+    },
+    "sessionStorage": {},
+    "source": "selenium",
+    "third_party_cookies": [],
+    "third_party_count": 0
+}

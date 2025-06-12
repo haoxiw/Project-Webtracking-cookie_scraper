@@ -1,0 +1,87 @@
+{
+    "url": "https://www.youtube.com",
+    "timestamp": "2025-06-11T08:53:02.284744",
+    "cookies": [
+        {
+            "name": "GPS",
+            "value": "1",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": "Wed, 11-Jun-2025 01:23:01 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": "",
+            "age": {
+                "seconds": -27001.28437614441,
+                "days": -0.31251486546463436,
+                "readable": "Expired",
+                "is_session": false
+            }
+        },
+        {
+            "name": "YSC",
+            "value": "21JcrPq54yI",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "none",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        },
+        {
+            "name": "VISITOR_INFO1_LIVE",
+            "value": "7mdMXP0SXbs",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": "Mon, 08-Dec-2025 00:53:01 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": "none",
+            "age": {
+                "seconds": 15523198.715574026,
+                "days": 179.6666518006253,
+                "readable": "5 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "VISITOR_PRIVACY_METADATA",
+            "value": "CgJVUxIEGgAgVQ%3D%3D",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": "Mon, 08-Dec-2025 00:53:01 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": "none",
+            "age": {
+                "seconds": 15523198.715545177,
+                "days": 179.66665180029142,
+                "readable": "5 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "__Secure-ROLLOUT_TOKEN",
+            "value": "CMCswbnH_6mJwAEQ5PyL4ZPojQMY5PyL4ZPojQM%3D",
+            "domain": "youtube.com",
+            "path": "/",
+            "expires": "Mon, 08-Dec-2025 00:53:01 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": "none",
+            "age": {
+                "seconds": 15523198.715519905,
+                "days": 179.6666517999989,
+                "readable": "5 months",
+                "is_session": false
+            }
+        }
+    ],
+    "source": "scrapy"
+}

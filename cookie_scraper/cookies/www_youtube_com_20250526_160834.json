@@ -1,0 +1,108 @@
+{
+    "url": "https://www.youtube.com",
+    "timestamp": "2025-05-26T16:08:34.037693",
+    "cookies": [
+        {
+            "name": "PREF",
+            "value": "f4=4000000&tz=Asia.Shanghai",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1782806908,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 34559993.97400904,
+                "days": 399.99993025473424,
+                "readable": "1 years",
+                "is_session": false
+            }
+        },
+        {
+            "name": "YSC",
+            "value": "ZtykQ0_sk0g",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        },
+        {
+            "name": "__Secure-ROLLOUT_TOKEN",
+            "value": "CMC7r_bllufbRhDu-I6Y18CNAxjr-ruc18CNAw%3D%3D",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1763798901,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 15551986.974009037,
+                "days": 179.9998492362157,
+                "readable": "5 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "VISITOR_PRIVACY_METADATA",
+            "value": "CgJVUxIEGgAgFw%3D%3D",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1763798906,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 15551991.974009037,
+                "days": 179.99990710658608,
+                "readable": "5 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "VISITOR_INFO1_LIVE",
+            "value": "63rpkAy-New",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1763798906,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 15551991.974009037,
+                "days": 179.99990710658608,
+                "readable": "5 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "GPS",
+            "value": "1",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1748248692,
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 1777.9740090370178,
+                "days": 0.020578402882372893,
+                "readable": "29 minutes",
+                "is_session": false
+            }
+        }
+    ],
+    "localStorage": {
+        "yt-icons-last-purged": "1746000499741",
+        "ytidb::LAST_RESULT_ENTRY_KEY": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1750838899848,\"creation\":1748246899849}"
+    },
+    "sessionStorage": {},
+    "source": "selenium"
+}

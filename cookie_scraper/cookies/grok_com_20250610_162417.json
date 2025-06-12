@@ -1,0 +1,114 @@
+{
+    "url": "https://grok.com",
+    "timestamp": "2025-06-10T16:24:17.366060",
+    "cookies": [
+        {
+            "name": "cf_clearance",
+            "value": "AmnTs_nDodSDBWxRX4RXPsXx_u7YsjKzgnkRK4LMPw4-1749543843-1.2.1.1-OgQAC.9qQO4FWhs27GrNib8Q7E02HHl7hmbS1JycaiFkdd5A2g_n2FRdmjUin0sS76256fsTa2fOBKRF4B7HbQzZI34I1ANOSLKK8Ow9Chj2D546ZgpLN_NB1qaN1DBqFVSKWKD0SsdKWy_jg8eepn5wSMKMDVBqJUzGkrlKPij2fkVfyRDRrkU5jipMpmYDUdD_nOqk2VyFP6YMws7leTigvZpUL1VECU2qHUhz1j9Ps9ACHKN0_JmCVIv9gGkxCPh_KykG_FEaYzs_YGslhJFz4irZIZpialQDwL29FMSlxM8RRYZYLJl0HrZhPqpjgLk0EqO2nWmfZcsceoxH_mII1EpzfCvg.1xOZEK3YDI",
+            "domain": ".grok.com",
+            "path": "/",
+            "expires": 1781079843,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 31535985.649996042,
+                "days": 364.99983391199123,
+                "readable": "12 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: grok.com, Cookie: grok.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "_ga_8FEWB057YH",
+            "value": "GS2.1.s1749543839$o1$g0$t1749543839$j60$l0$h0",
+            "domain": ".grok.com",
+            "path": "/",
+            "expires": 1784103839,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 34559981.64999604,
+                "days": 399.9997876156949,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: grok.com, Cookie: grok.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.1.1321013720.1749543840",
+            "domain": ".grok.com",
+            "path": "/",
+            "expires": 1784103839,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 34559981.64999604,
+                "days": 399.9997876156949,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: grok.com, Cookie: grok.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "i18nextLng",
+            "value": "zh",
+            "domain": "grok.com",
+            "path": "/",
+            "expires": 1781079839,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Strict",
+            "age": {
+                "seconds": 31535981.649996042,
+                "days": 364.9997876156949,
+                "readable": "12 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: grok.com, Cookie: grok.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "stblid",
+            "value": "ad0fe698-8397-47b0-a00d-205083d7c556",
+            "domain": "grok.com",
+            "path": "/",
+            "expires": 1781079850,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Strict",
+            "age": {
+                "seconds": 31535992.649996042,
+                "days": 364.99991493050976,
+                "readable": "12 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: grok.com, Cookie: grok.com",
+            "tracking_purpose": "Unknown"
+        }
+    ],
+    "localStorage": {
+        "chat-preferences": "{\"state\":{\"outputMode\":\"auto\",\"activeModelId\":\"grok-3\",\"voiceId\":\"Ara\",\"voicePersonalityId\":null,\"voiceCustomInstructions\":null,\"voiceEnableSearch\":true},\"version\":1}",
+        "i18nextLng": "zh",
+        "model-select-tutorial": "true",
+        "statsig.session_id.4144544145": "{\"sessionID\":\"8dcc796c-a8b1-4a66-9047-dc70f4d2a562\",\"startTime\":1749543839685,\"lastUpdate\":1749543850684}",
+        "statsig.stable_id.4144544145": "\"e8323e2f-223e-4c3a-8d82-13a985d0fb74\""
+    },
+    "sessionStorage": {
+        "sentryReplaySession": "{\"id\":\"c2ddc44417a4423795be62922e856d80\",\"started\":1749543834890,\"lastActivity\":1749543852333,\"segmentId\":0,\"sampled\":\"buffer\"}"
+    },
+    "source": "selenium",
+    "third_party_cookies": [],
+    "third_party_count": 0
+}

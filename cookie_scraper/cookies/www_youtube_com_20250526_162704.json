@@ -1,0 +1,116 @@
+{
+    "url": "https://www.youtube.com",
+    "timestamp": "2025-05-26T16:27:04.120565",
+    "cookies": [
+        {
+            "name": "PREF",
+            "value": "f4=4000000&tz=Asia.Shanghai",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1782808017,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 34559992.89619303,
+                "days": 399.9999177800119,
+                "readable": "1 years",
+                "is_session": false
+            }
+        },
+        {
+            "name": "YSC",
+            "value": "98kf17GiCbY",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        },
+        {
+            "name": "__Secure-ROLLOUT_TOKEN",
+            "value": "CJGrh_S1sra9bxDCg4qq28CNAxjz85Os28CNAw%3D%3D",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1763800008,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 15551983.896193027,
+                "days": 179.99981361334522,
+                "readable": "5 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "VISITOR_PRIVACY_METADATA",
+            "value": "CgJVUxIEGgAgPw%3D%3D",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1763800014,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 15551989.896193027,
+                "days": 179.99988305778967,
+                "readable": "5 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "VISITOR_INFO1_LIVE",
+            "value": "XzIAx2JPs8A",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1763800014,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 15551989.896193027,
+                "days": 179.99988305778967,
+                "readable": "5 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "GPS",
+            "value": "1",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1748249804,
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 1779.8961930274963,
+                "days": 0.02060065038226269,
+                "readable": "29 minutes",
+                "is_session": false
+            }
+        }
+    ],
+    "localStorage": {
+        "yt-icons-last-purged": "1742113606919",
+        "yt-remote-connected-devices": "{\"data\":\"[]\",\"expiration\":1748334423222,\"creation\":1748248023222}",
+        "yt-remote-device-id": "{\"data\":\"4ff95788-fb03-4f2c-9221-82c33201edec\",\"expiration\":1779784023220,\"creation\":1748248023220}",
+        "ytidb::LAST_RESULT_ENTRY_KEY": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1750840007022,\"creation\":1748248007022}"
+    },
+    "sessionStorage": {
+        "12e0eb90-3a35439a": "CEE4MgxGa5x4kyxuffMdH523BlpWq46n4GCvXSfFp0rJt0ETbPs52vsjTZWob69j7rHKYUb0pS2GTbU8aTRELfvjksbTZfNtPF0Sr9IoKAl5I1PIL42cZmOK7MOjGRZ1tZOE5uO/FIpKCegxueY8XwzBbceqKLX86I5xylh4RQ5Pz0k5WyxQam90oMu66J3D",
+        "iU5q-!O9@$": "1,12e0eb90-3a35439a",
+        "yt-remote-fast-check-period": "{\"data\":\"1748248323221\",\"creation\":1748248023221}",
+        "yt-remote-session-app": "{\"data\":\"youtube-desktop\",\"creation\":1748248023221}",
+        "yt-remote-session-name": "{\"data\":\"Desktop\",\"creation\":1748248023221}"
+    },
+    "source": "selenium"
+}

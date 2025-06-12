@@ -1,0 +1,50 @@
+{
+    "url": "https://www.google.com",
+    "timestamp": "2025-05-26T16:29:32.019123",
+    "cookies": [
+        {
+            "name": "NID",
+            "value": "524=Yufwr_3_h6uOVRwCvuYFqmsBXFEN29_U_SdADVlvx05j9TwGxuk4Bd9IFSoL1SyP881eUA193gd7Fa1va6F9dGf56okSHv3Nk7XBaN7qEakpW0tSKG6Qbmzv4VUgURppQnNxHstwExFkxYzpP5eB-vT2LM9Ggxr2zFYzzMNDW8wsu_OFeaqDT3zNTirBY7WByGL07n3BK5372c8X8f3P7lTKkM4trOxAp80KGZRBJe7dNYMbrEZIhHljO565nU7K0g",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1764059352,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 15811179.997916937,
+                "days": 182.99976849440898,
+                "readable": "6 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "AEC",
+            "value": "AVh_V2hcGmUGPc5vQsqEgtddGGK9M0wFerZ0xlgG7sux-g9UjZIWBjMopw",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1763800152,
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 15551979.997916937,
+                "days": 179.99976849440898,
+                "readable": "5 months",
+                "is_session": false
+            }
+        }
+    ],
+    "localStorage": {
+        "sb_wiz.zpc.gws-wiz.": "{\"0\":[[\"braves release arcia\",0,[3,362,143],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"chase sexton crash fox raceway\",0,[3,362,143],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"kansas city protest today\",0,[3,362,143],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"ice hockey championship\",46,[3,362,143],{\"lm\":[],\"zf\":33,\"zh\":\"ice hockey championship\",\"zi\":\"IIHF World Championship \u2014 League\",\"zl\":8,\"zp\":{\"gs_ssp\":\"eJzj4tTP1TcwTC8szDNg9BLPTE5VyMhPzk6tVEjOSMwtyMzPK87ILAAA0-QMgA\"},\"zs\":\"data:image/png;base64,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\"}],[\"google pixel 10 pro commercial leak\",0,[3,362,143],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"nascar team penalty charlotte\",0,[3,362,143],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"joann fabrics closing\",0,[3,362,143],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"tokyo seattle flight diverted\",0,[3,362,143],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"marvel thunderbolts box office\",0,[3,362,143],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"us embassy tel aviv\",0,[3,362,143],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}]],\"1\":{\"ag\":{\"a\":{\"8\":[\"Trending searches\"]}},\"av\":\"4153804327480053632\",\"q\":\"pvz64ackoGkVmhVPr-0TXq-GVRw\"}}"
+    },
+    "sessionStorage": {
+        "_c;;i": "p:*|l:9007199254740991_9",
+        "hsb;;1748248151148": "p:*|l:3_{\"state\":null,\"url\":\"/\",\"metadata\":{\"entryId\":1748248151147,\"pushId\":1748248151148,\"stackId\":1748248151149,\"stackIndex\":0}}",
+        "hsb;;1748248151149": "p:*|l:2_[1748248151148]",
+        "hsb;;1748248160709": "p:*|l:8_{\"state\":null,\"url\":\"/\",\"metadata\":{\"entryId\":1748248160708,\"pushId\":1748248160709,\"stackId\":1748248160710,\"stackIndex\":0}}",
+        "hsb;;1748248160710": "p:*|l:7_[1748248160709]",
+        "sr;;1748248151148": "p:m|l:4_{\"current\":{\"dka\":{\"d\":0},\"l6a\":1748248151147},\"last\":{\"dka\":{},\"l6a\":-1}}"
+    },
+    "source": "selenium"
+}

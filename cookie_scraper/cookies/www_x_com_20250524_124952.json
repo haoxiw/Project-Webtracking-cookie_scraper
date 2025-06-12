@@ -1,0 +1,16 @@
+{
+    "url": "https://www.x.com",
+    "timestamp": "2025-05-24T12:49:52.054355",
+    "cookies": [
+        {
+            "name": "__cf_bm",
+            "value": "bh8rCDc1snoSsbUs.2uYCu9sFHcU0UJI1VSSdc0LYds-1748062190-1.0.1.1-WJC8lZQFKwnVWaGj75f_gVKB3eU3FzhM0A6gSPfWCW3wLmUu.tVuqq9SZmy5ZYQYOgFE2Zollm9hhOV9v9pxG1NWV6TIIW8F2WzveS1xzaE",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": "Sat, 24-May-25 05:19:50 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": "None"
+        }
+    ]
+}

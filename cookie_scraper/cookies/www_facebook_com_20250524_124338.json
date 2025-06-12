@@ -1,0 +1,26 @@
+{
+    "url": "https://www.facebook.com",
+    "timestamp": "2025-05-24T12:43:38.867154",
+    "cookies": [
+        {
+            "name": "fr",
+            "value": "0FDgfqof8svz0H5tT..BoMU55..AAA.0.0.BoMU55.AWfaj2sW7P2XsmIoOORPobAxWSg",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": "Fri, 22-Aug-2025 04:43:37 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": ""
+        },
+        {
+            "name": "sb",
+            "value": "eU4xaCwAA2rmurAPgpzB2Tcv",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": "Sun, 28-Jun-2026 04:43:37 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": ""
+        }
+    ]
+}

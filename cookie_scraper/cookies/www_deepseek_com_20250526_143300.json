@@ -1,0 +1,46 @@
+{
+    "url": "https://www.deepseek.com",
+    "timestamp": "2025-05-26T14:33:00.475487",
+    "cookies": [
+        {
+            "name": "NEXT_LOCALE",
+            "value": "zh",
+            "domain": "www.deepseek.com",
+            "path": "/",
+            "expires": "",
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax"
+        },
+        {
+            "name": "HWWAFSESTIME",
+            "value": "1748241166017",
+            "domain": "www.deepseek.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax"
+        },
+        {
+            "name": "HWWAFSESID",
+            "value": "a029e7fd97c662a2ba",
+            "domain": "www.deepseek.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax"
+        }
+    ],
+    "localStorage": {
+        "__appKit_@deepseek/blog_debugPanelEnabled": "{\"value\":false,\"__version\":\"0\"}",
+        "__appKit_@deepseek/blog_lastSessionValue": "{\"value\":{},\"__version\":\"0\"}",
+        "__tea_cache_first_20006840": "1",
+        "__tea_cache_tokens_20006840": "{\"web_id\":\"7508638642080911880\",\"user_unique_id\":\"7508638642080911880\",\"timestamp\":1748241168546,\"_type_\":\"default\"}"
+    },
+    "sessionStorage": {
+        "__tea_session_id_20006840": "{\"sessionId\":\"7d31bc1a-5b4d-40f0-b717-c3da7a84fe0a\",\"timestamp\":1748241168547}"
+    },
+    "source": "selenium"
+}

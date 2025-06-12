@@ -1,0 +1,39 @@
+{
+    "url": "https://www.deepseek.com",
+    "timestamp": "2025-06-11T08:53:00.906935",
+    "cookies": [
+        {
+            "name": "HWWAFSESID",
+            "value": "258be76ad4fd855010",
+            "domain": "www.deepseek.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        },
+        {
+            "name": "HWWAFSESTIME",
+            "value": "1749603179900",
+            "domain": "www.deepseek.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        }
+    ],
+    "source": "scrapy"
+}

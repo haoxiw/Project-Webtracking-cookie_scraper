@@ -1,0 +1,105 @@
+{
+    "url": "https://x.com/",
+    "timestamp": "2025-05-26T14:40:27.953366",
+    "cookies": [
+        {
+            "name": "gt",
+            "value": "1926891023613010197",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1748250594,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 8966.056046009064,
+                "days": 0.1037737968288086,
+                "readable": "2 hours",
+                "is_session": false
+            }
+        },
+        {
+            "name": "guest_id_marketing",
+            "value": "v1%3A174824159456654534",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1782801594,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559966.05604601,
+                "days": 399.99960713016213,
+                "readable": "1 years",
+                "is_session": false
+            }
+        },
+        {
+            "name": "__cf_bm",
+            "value": "MQs9XaImOSxZyNKEXVDGJLcJ6VXZ1CVYuuG6mhYtB54-1748241594-1.0.1.1-7HNi0jZj02S969hs9G1BC.j8RhxfjqT57IzditLRDuB8PgkEEf8_.MQ6RCriOy_n9whYky4fYws6bhIwE4NUEgPbF8357KnqgtnRCO7i5Dw",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1748243394,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 1766.0560460090637,
+                "days": 0.020440463495475274,
+                "readable": "29 minutes",
+                "is_session": false
+            }
+        },
+        {
+            "name": "guest_id",
+            "value": "v1%3A174824159456654534",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1782801594,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559966.05604601,
+                "days": 399.99960713016213,
+                "readable": "1 years",
+                "is_session": false
+            }
+        },
+        {
+            "name": "guest_id_ads",
+            "value": "v1%3A174824159456654534",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1782801594,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559966.05604601,
+                "days": 399.99960713016213,
+                "readable": "1 years",
+                "is_session": false
+            }
+        },
+        {
+            "name": "personalization_id",
+            "value": "\"v1_oikBd2KjkUAdRKyis8hyjA==\"",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1782801594,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559966.05604601,
+                "days": 399.99960713016213,
+                "readable": "1 years",
+                "is_session": false
+            }
+        }
+    ],
+    "localStorage": {},
+    "sessionStorage": {},
+    "source": "selenium"
+}

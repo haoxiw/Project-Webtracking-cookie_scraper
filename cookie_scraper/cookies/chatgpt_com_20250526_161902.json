@@ -1,0 +1,167 @@
+{
+    "url": "https://chatgpt.com",
+    "timestamp": "2025-05-26T16:19:02.096152",
+    "cookies": [
+        {
+            "name": "oai-asli",
+            "value": "9d96e7d4-d6af-47b7-98cc-39d43f0c05ec",
+            "domain": "chatgpt.com",
+            "path": "/",
+            "expires": "",
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        },
+        {
+            "name": "__Secure-next-auth.callback-url",
+            "value": "https%3A%2F%2Fchatgpt.com",
+            "domain": "chatgpt.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        },
+        {
+            "name": "__cflb",
+            "value": "0H28vzvP5FJafnkHxihEmSzvVEq3RitZ9SXmPdunsNB",
+            "domain": "chatgpt.com",
+            "path": "/",
+            "expires": 1748251120,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 3577.917104959488,
+                "days": 0.04141107760369778,
+                "readable": "59 minutes",
+                "is_session": false
+            }
+        },
+        {
+            "name": "_dd_s",
+            "value": "rum=0&expire=1748248433171&logs=1&id=45d0f468-32d7-4c7d-99cc-eaf7b1ec44cf&created=1748247527897",
+            "domain": "chatgpt.com",
+            "path": "/",
+            "expires": 1748248433,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Strict",
+            "age": {
+                "seconds": 890.9171049594879,
+                "days": 0.01031154056666074,
+                "readable": "14 minutes",
+                "is_session": false
+            }
+        },
+        {
+            "name": "cf_clearance",
+            "value": "aF5lA1SFDQRUeI0mpK0pakB_1eT.WqkoE2Xr.Uy8wWo-1748247522-1.2.1.1-qW9ySZ4yQFxC9oSsMpbf.V0sylXAp4bLZXv.fRv9ira0Soh1TOswkjzV8j6PnVYsEvm5.9haxTygzoCe_wxB.JOR1UAvjUk0z6oNCUJllx8xQdafdt3uevqApSXCVKgCctjpUcb.COZOdzpocdlBPKPVyPPcjOVmU7AW321E4hmRPl4iwdks4Vej4XdWa3xyYsDPo0j1OpngD_IFwan0AW.tQNSodr04VEx4.4sK2dV5SYufBnShHuxxOpBzIXkHLXL3jgKsotJUTQlbsUq6tZO0OrxVZQ9uSrh67lz4bPELflXnlctO75W9DazWD4GGf0VbwRvVHiGsZgzDLj_frImyy2PMdxt.ueOqxYUQCsA",
+            "domain": ".chatgpt.com",
+            "path": "/",
+            "expires": 1779783522,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 31535979.91710496,
+                "days": 364.99976755908517,
+                "readable": "12 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "_cfuvid",
+            "value": "v_sVJuOY2AFubA5ewPhDJEH9LHGIB5srksXgDRV36qo-1748247520154-0.0.1.1-604800000",
+            "domain": ".chatgpt.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        },
+        {
+            "name": "__cf_bm",
+            "value": "Ef9foEvwTrpDAE17vw2WZVE6F0ahAqTk.7N8AEreLAs-1748247520-1.0.1.1-seWGJ8vXigARElnwS68c31EwrSVAXIdde.ghcXA1qRU8.XeDssXFfzKhZG9i5STP4Hvk5y9jDtqakD6Aj0hvxQmOOU8kpKGD1.t2gTXiJFM",
+            "domain": ".chatgpt.com",
+            "path": "/",
+            "expires": 1748249320,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 1777.917104959488,
+                "days": 0.020577744270364445,
+                "readable": "29 minutes",
+                "is_session": false
+            }
+        },
+        {
+            "name": "oai-did",
+            "value": "ef721ed9-f550-4033-ad21-63fac27195ca",
+            "domain": ".chatgpt.com",
+            "path": "/",
+            "expires": 1779351520,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 31103977.91710496,
+                "days": 359.999744410937,
+                "readable": "11 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "__Host-next-auth.csrf-token",
+            "value": "52fa3303e2a15f2e5f03b9a8e55920f97bcc5b37cc045fa0bf76e6b9aebfb85c%7Cf840f04d0e4101c299cee5a80e815c0ba24fd70db1fd9c2ebe3373be8bd8eee1",
+            "domain": "chatgpt.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        }
+    ],
+    "localStorage": {
+        "client-correlated-secret": "{\"alg\":\"HS512\",\"ext\":true,\"k\":\"m0zi8ADkddLk4QNsWogeT-kioOOzCJZGOPly7hey1zhVSXqa2d-t9NzImSJ5xC5V1Gdy4u_5Gxeusbb5sNCXJZRvPqLkbvySijXGkcD_5x1B-uxRpa3trgP90qbReY0EfuymFELL3_dmrx1OlZqLEJuLDEheo9HKDRqsRz7_QW0\",\"key_ops\":[\"sign\",\"verify\"],\"kty\":\"oct\"}",
+        "oai-did": "\"ef721ed9-f550-4033-ad21-63fac27195ca\"",
+        "oai/apps/caUpsellBanner": "{\"state\":{},\"version\":0}",
+        "oai/apps/caUserUpsellBanner": "{\"state\":{},\"version\":0}",
+        "oai/apps/capExpiresAt": "{\"state\":{\"isoDate\":\"\"},\"version\":0}",
+        "oai/apps/debugSettings": "{\"state\":{\"enableFConversationEndpoint\":false,\"showCompletionPerfData\":false,\"jsonViewerFilters\":{},\"recordRendering\":false},\"version\":0}",
+        "oai/apps/hasSeenNoAuthImagegenNux": "false",
+        "oai/apps/lastPageLoadDate": "\"2025-05-26T08:18:47.966Z\"",
+        "search.attributions-settings": "{\"state\":{\"debugMode\":false,\"viewModelPredictedFallback\":false,\"disableSegmentReplacement\":false,\"useSigmoid\":true,\"influenceTemperature\":0.2,\"probThreshold\":0.45,\"probBaseline\":0.02},\"version\":8}",
+        "statsig.session_id.1792610830": "{\"sessionID\":\"2b481023-89fc-4490-bfb1-a3f86e3e21ce\",\"startTime\":1748247527965,\"lastUpdate\":1748247534048}",
+        "statsig.stable_id.1792610830": "\"ef721ed9-f550-4033-ad21-63fac27195ca\""
+    },
+    "sessionStorage": {
+        "oai-auth-provider": "openai"
+    },
+    "source": "selenium"
+}

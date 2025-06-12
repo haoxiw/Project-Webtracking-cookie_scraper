@@ -1,0 +1,75 @@
+{
+    "url": "https://www.deepseek.com",
+    "timestamp": "2025-06-10T16:23:50.959822",
+    "cookies": [
+        {
+            "name": "NEXT_LOCALE",
+            "value": "zh",
+            "domain": "www.deepseek.com",
+            "path": "/",
+            "expires": "",
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            },
+            "is_third_party": false,
+            "domain_info": "Page: deepseek.com, Cookie: deepseek.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "HWWAFSESTIME",
+            "value": "1749543813923",
+            "domain": "www.deepseek.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            },
+            "is_third_party": false,
+            "domain_info": "Page: deepseek.com, Cookie: deepseek.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "HWWAFSESID",
+            "value": "9473f9495eea8f346d",
+            "domain": "www.deepseek.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            },
+            "is_third_party": false,
+            "domain_info": "Page: deepseek.com, Cookie: deepseek.com",
+            "tracking_purpose": "Session/Authentication"
+        }
+    ],
+    "localStorage": {
+        "__appKit_@deepseek/blog_debugPanelEnabled": "{\"value\":false,\"__version\":\"0\"}",
+        "__appKit_@deepseek/blog_lastSessionValue": "{\"value\":{},\"__version\":\"0\"}",
+        "__tea_cache_first_20006840": "1",
+        "__tea_cache_tokens_20006840": "{\"web_id\":\"7514233481229076750\",\"user_unique_id\":\"7514233481229076750\",\"timestamp\":1749543818508,\"_type_\":\"default\"}"
+    },
+    "sessionStorage": {
+        "__tea_session_id_20006840": "{\"sessionId\":\"2e723c3e-e01a-4496-a6f3-4048a9b5b94f\",\"timestamp\":1749543818509}"
+    },
+    "source": "selenium",
+    "third_party_cookies": [],
+    "third_party_count": 0
+}

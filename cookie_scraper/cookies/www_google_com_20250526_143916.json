@@ -1,0 +1,47 @@
+{
+    "url": "https://www.google.com",
+    "timestamp": "2025-05-26T14:39:16.715115",
+    "cookies": [
+        {
+            "name": "NID",
+            "value": "524=ELp5HCwjkrIeXFmIwVHTJzKT3RXxkwTP6_Ujs3Fmzg4Kkbmubz07_GT5hyS57jVIfkvyPD6LywQSNHtLCCCMqO7GhkOWA7mzt9AUaM1ZxuOoeyq6DJaabQ3BaOprWroWLMlB9CNOZMFnoXwobG15o218M92m3LOdtaYZoqzZKMIZWJ9-Ag8aLXlH-mzv1X-1LG3AIGPYHigTuTeGIaDqL2xrZCkx0fyCMg",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1764052741,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 15811184.297776222,
+                "days": 182.99981826129886,
+                "readable": "6 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "AEC",
+            "value": "AVh_V2j5NpABR5Q0EfvKn0zj23Z3CEN1wqTit0fqM6eylLlfqlnU1BfrcI4",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1763793541,
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 15551984.297776222,
+                "days": 179.99981826129886,
+                "readable": "5 months",
+                "is_session": false
+            }
+        }
+    ],
+    "localStorage": {
+        "sb_wiz.zpc.gws-wiz.": "{\"0\":[],\"1\":{\"av\":\"9128194092218479298\",\"k\":1,\"q\":\"RE8pYY2tLIJF7cJR5IrZMwe37Q4\"}}"
+    },
+    "sessionStorage": {
+        "_c;;i": "p:*|l:9007199254740991_4",
+        "hsb;;1748241535397": "p:*|l:3_{\"state\":null,\"url\":\"/\",\"metadata\":{\"entryId\":1748241535396,\"pushId\":1748241535397,\"stackId\":1748241535398,\"stackIndex\":0}}",
+        "hsb;;1748241535398": "p:*|l:2_[1748241535397]"
+    },
+    "source": "selenium"
+}

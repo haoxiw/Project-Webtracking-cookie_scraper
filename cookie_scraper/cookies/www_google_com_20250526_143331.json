@@ -1,0 +1,35 @@
+{
+    "url": "https://www.google.com",
+    "timestamp": "2025-05-26T14:33:31.741330",
+    "cookies": [
+        {
+            "name": "NID",
+            "value": "524=WyZoZ4MflnKR42Vyf-VZef5ECDQZCCPctpVJ5LkvrtJbKTJHqC_3kvgFl78rjbHiBLg7dKgpjzPBUG7GgO9RrGnEfe5ksp1PW6AoFMfbbxi2IE9Wa6AJBhKWNQYdkF8QIoo6HFEW_Nb_3hBoSf9D4wy_y1zbOFl9h6N4q9aH4T7c8srRt5wvmvcfBTgl1L317WhkTNIhmm1qCQPG2e2qXZeACB3xjcAO_5M",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1764052396,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None"
+        },
+        {
+            "name": "AEC",
+            "value": "AVh_V2izzU3KVqZoqbXoPoSI7t_JgpsPG2xIsGGvmiGL0In_ezbLt6uh2Dk",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1763793196,
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax"
+        }
+    ],
+    "localStorage": {
+        "sb_wiz.zpc.gws-wiz.": "{\"0\":[],\"1\":{\"av\":\"161788607504262709\",\"k\":1,\"q\":\"EznESGFIJ5GaR4LEwacQeEsHkUI\"}}"
+    },
+    "sessionStorage": {
+        "_c;;i": "p:*|l:9007199254740991_4",
+        "hsb;;1748241195549": "p:*|l:3_{\"state\":null,\"url\":\"/\",\"metadata\":{\"entryId\":1748241195548,\"pushId\":1748241195549,\"stackId\":1748241195550,\"stackIndex\":0}}",
+        "hsb;;1748241195550": "p:*|l:2_[1748241195549]"
+    },
+    "source": "selenium"
+}

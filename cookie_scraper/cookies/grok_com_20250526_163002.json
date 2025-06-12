@@ -1,0 +1,81 @@
+{
+    "url": "https://grok.com",
+    "timestamp": "2025-05-26T16:30:02.703916",
+    "cookies": [
+        {
+            "name": "cf_clearance",
+            "value": "2Vl5jL2bb720uUK9nxPcKJG1A2Via.LxFNkf9hwrHYU-1748248188-1.2.1.1-ZIx.WGXMk5pMofkpPObNd9AH_fFzJJyjDXjhqK42Qfzau0Q84WcHLuU5c7hIhHNjacTkrbEHDfW0Pt7W0GAHVHYsN_2YC.gYVDAlQbzMhRDVuSKNYTSwFyc3UK4LLzNF40yLCg0uLijpt4xon6uA0OuIrMArJltW8uMzmKzivy_uXrifn6t79fCGv189Ad3jZ1c19h0DphfE4N3bRBCDOcfidSYz82sUjHQn9i_J7llCrniJTGC1jH2KK20EchSSRuhrCK.VyMYseSl0KravNc3oGqK5Qbb4SHf8wqUhuuUKj_Qknkal6bIngmjwfmMj9BquNN7b4306RyXnlrN9Ex1Hr5lMlRVX04IHDlJqzKQ",
+            "domain": ".grok.com",
+            "path": "/",
+            "expires": 1779784188,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 31535985.308150053,
+                "days": 364.9998299554404,
+                "readable": "12 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "_ga_8FEWB057YH",
+            "value": "GS2.1.s1748248185$o1$g0$t1748248185$j0$l0$h0",
+            "domain": ".grok.com",
+            "path": "/",
+            "expires": 1782808185,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 34559982.30815005,
+                "days": 399.9997952332182,
+                "readable": "1 years",
+                "is_session": false
+            }
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.1.574134032.1748248186",
+            "domain": ".grok.com",
+            "path": "/",
+            "expires": 1782808185,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 34559982.30815005,
+                "days": 399.9997952332182,
+                "readable": "1 years",
+                "is_session": false
+            }
+        },
+        {
+            "name": "i18nextLng",
+            "value": "zh",
+            "domain": "grok.com",
+            "path": "/",
+            "expires": 1779784185,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Strict",
+            "age": {
+                "seconds": 31535982.308150053,
+                "days": 364.9997952332182,
+                "readable": "12 months",
+                "is_session": false
+            }
+        }
+    ],
+    "localStorage": {
+        "chat-preferences": "{\"state\":{\"outputMode\":\"auto\",\"activeModelId\":\"grok-3\"},\"version\":1}",
+        "i18nextLng": "zh",
+        "model-select-tutorial": "true",
+        "statsig.session_id.4144544145": "{\"sessionID\":\"c48c32e1-86e2-45aa-9e66-034884c6b131\",\"startTime\":1748248185885,\"lastUpdate\":1748248196142}",
+        "statsig.stable_id.4144544145": "\"c4ad6a3c-b007-4ecf-9615-b8f295ce29e3\""
+    },
+    "sessionStorage": {
+        "sentryReplaySession": "{\"id\":\"41a5a16260fa442b90331f96117a8f66\",\"started\":1748248180623,\"lastActivity\":1748248197670,\"segmentId\":0,\"sampled\":\"buffer\"}"
+    },
+    "source": "selenium"
+}

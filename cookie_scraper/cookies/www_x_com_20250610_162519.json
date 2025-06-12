@@ -1,0 +1,144 @@
+{
+    "url": "https://www.x.com",
+    "timestamp": "2025-06-10T16:25:19.762926",
+    "cookies": [
+        {
+            "name": "ct0",
+            "value": "c2c22c99172ac8e2cc405a12d204015a",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1749565513,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 21593.25107717514,
+                "days": 0.24992188746730487,
+                "readable": "5 hours",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Twitter Tracking"
+        },
+        {
+            "name": "gt",
+            "value": "1932353208380235986",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1749552881,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 8961.25107717514,
+                "days": 0.10371818376360116,
+                "readable": "2 hours",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "personalization_id",
+            "value": "\"v1_n/KVMwwIp1YR9o5N17ni3w==\"",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1784103881,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559961.251077175,
+                "days": 399.99955151709696,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "__cf_bm",
+            "value": "7EmsQa2lprE7O7.H0TrKrwRumvyhZxSJ9N9D9EoMnnM-1749543879-1.0.1.1-pn3RDBjzfr5oOWHvNJw4MZgxdCkfl1YD4_i80mrFPR2ddmjpBB2DIhA6CtZj2P3Rk6rm4tRFpBypkNL8AuAEDyl1RJb32MjhXRIizVYiO7M",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1749545679,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 1759.2510771751404,
+                "days": 0.02036170228211968,
+                "readable": "29 minutes",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "guest_id_marketing",
+            "value": "v1%3A174954388089289202",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1784103881,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559961.251077175,
+                "days": 399.99955151709696,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Advertising"
+        },
+        {
+            "name": "guest_id",
+            "value": "v1%3A174954388089289202",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1784103881,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559961.251077175,
+                "days": 399.99955151709696,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "guest_id_ads",
+            "value": "v1%3A174954388089289202",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1784103881,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559961.251077175,
+                "days": 399.99955151709696,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Advertising"
+        }
+    ],
+    "localStorage": {},
+    "sessionStorage": {},
+    "source": "selenium",
+    "third_party_cookies": [],
+    "third_party_count": 0
+}

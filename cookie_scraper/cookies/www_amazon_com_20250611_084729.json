@@ -1,0 +1,30 @@
+{
+    "url": "https://www.amazon.com",
+    "timestamp": "2025-06-11T08:47:29.661091",
+    "cookies": [
+        {
+            "name": "csm-sid",
+            "value": "240-7768889-0190589",
+            "domain": "www.amazon.com",
+            "path": "/",
+            "expires": 1751969608,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 2366758.35435009,
+                "days": 27.393036508681597,
+                "readable": "27 days",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: amazon.com, Cookie: amazon.com",
+            "tracking_purpose": "Session/Authentication"
+        }
+    ],
+    "localStorage": {},
+    "sessionStorage": {},
+    "source": "selenium",
+    "third_party_cookies": [],
+    "third_party_count": 0
+}

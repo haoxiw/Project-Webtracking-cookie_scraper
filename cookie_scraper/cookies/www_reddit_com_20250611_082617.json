@@ -1,0 +1,148 @@
+{
+    "url": "https://www.reddit.com",
+    "timestamp": "2025-06-11T08:26:17.810616",
+    "cookies": [
+        {
+            "name": "session_tracker",
+            "value": "nmdlnhjilmmfqciqho.0.1749601574952.Z0FBQUFBQm9TTTBtUnlZTjF1SDFJUGt5SlQyZEFSU2lWSHY2RlA0TGhJSFNxNjcwZnZnYWpxQ25LM0RVamdrTlUzb1NQZ1FhTEt2RnFEOHEtaTZBUjJrYkhiUEVoamkwNHNKU19taWRKZVZZeFpuVC1WUHBPRFBld1lHQzdqZ3FXZzJMWEJ1NlRrMjE",
+            "domain": ".reddit.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            },
+            "is_third_party": false,
+            "domain_info": "Page: reddit.com, Cookie: reddit.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "csv",
+            "value": "2",
+            "domain": ".reddit.com",
+            "path": "/",
+            "expires": 1784161560,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559982.19688797,
+                "days": 399.9997939454626,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: reddit.com, Cookie: reddit.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "rdt",
+            "value": "e67dbaff4d14c2c0d56952ff294ce3df",
+            "domain": ".reddit.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            },
+            "is_third_party": false,
+            "domain_info": "Page: reddit.com, Cookie: reddit.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "token_v2",
+            "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6IlNIQTI1NjpzS3dsMnlsV0VtMjVmcXhwTU40cWY4MXE2OWFFdWFyMnpLMUdhVGxjdWNZIiwidHlwIjoiSldUIn0.eyJzdWIiOiJsb2lkIiwianRpIjoibGp0T0RtV202V1VzREZQdzhDT0FRN3NHOGFwaEZ3IiwiZXhwIjoxNzQ5Njg3OTYwLjI3ODgxNiwiaWF0IjoxNzQ5NjAxNTYwLjI3ODgxNiwiY2lkIjoiMFItV0FNaHVvby1NeVEiLCJsaWQiOiJ0Ml8xcjhoaWYxOXJzIiwic2NwIjoiZUp4a2tkR090REFJaGQtRmE1X2dmNVVfbTAxdGNZYXNMUWFvazNuN0RWb2NrNzA3Y0Q0cEhQOURLb3FGRENaWGdxbkFCRmdUclREQlJ1VDluTG0zZzJpTmU4dFlzWm5DQkZtd0ZEcmttTEdzaVFRbWVKSWF5eHNtb0lMTnlGeXV0R05OTFQwUUpxaGNNcmVGSHBjMm9ia2JpNTZkR0ZXNXJEeW9zVmZsMHRqR0ZMWW54amNicXcycHVDNm5Na25MUXZrc1h2VGpOOVczOXZtel9TYTBKOE9LcXVtQjNobEpDRzRzZnBpbTNkOVRrNTZ0Q3hhMTkzcVEydWQ2M0s1OTFpdzBPN2VmNl9sckl4bVhZMmgtSnZ0MzF5LWhBNDg4THpQcUFFYXM0VWNaZG1RZF9sVUhVTG1nSkdNSjR0TUk1TXJsMjM4SnRtdlR2OGJ0RXo5OE0tS21OX3pXRE5SekNlTFFwX0gxR3dBQV9fOFExZVRSIiwibGNhIjoxNzQ5NjAxNTYwMjc4LCJmbG8iOjF9.WX2kqBga58FA5bn-9PK5a40sEO4CN44oGsj7iqBTLqmUnh5lxhTRDrKSW23IYTWb_RNlG64V_BAUXloamaVKea8a_3xPJ4OzYZy4_qaLZCm69HearIMUwTfwF268ooDuKr2OfTz6lYixzYIWbY6qia2Yt_z0PKLDpxmdBM8sv20D3cRb55HrnLwFtg83YlgvFR2YUeoeh-DSfpvZjI3OVoMY-uQM8jmQju3w5JLgZTsteUN4zeNbRLd7Cf6cSdd-wb5GaI7iatbkpZv531FyH3lCY1ON4Rhod9eGSR7N4Wzq26cm4Pz3zBkKTfl4ld57-wUIvOe1UYsMG7ginMblWg",
+            "domain": ".reddit.com",
+            "path": "/",
+            "expires": 1749687960,
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 86382.19688796997,
+                "days": 0.9997939454626154,
+                "readable": "23 hours",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: reddit.com, Cookie: reddit.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "csrf_token",
+            "value": "611fa8fc61125cc46ffa10bbc99a5b92",
+            "domain": ".reddit.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": false,
+            "samesite": "Strict",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            },
+            "is_third_party": false,
+            "domain_info": "Page: reddit.com, Cookie: reddit.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "loid",
+            "value": "000000001r8hif19rs.2.1749601560278.Z0FBQUFBQm9TTTBZMVRBTGxCSFFMNmljMFRwSDQyVm5sNGs0RV92M3p1cFB0RGVFckpIN3BSRXVacXFwWHczYzMwMlpwblhDeWF1Y3U0SnljTjhYMlhwZXR2Wi1yYXozT0tfMWN0clhDYkZIX25KQ1hvZ2VNQzRQR0hjdG1rY0FLZVMtN211SGU1eHU",
+            "domain": ".reddit.com",
+            "path": "/",
+            "expires": 1784161560,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559982.19688797,
+                "days": 399.9997939454626,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: reddit.com, Cookie: reddit.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "edgebucket",
+            "value": "TgGGODyjDGvYFy6ttK",
+            "domain": ".reddit.com",
+            "path": "/",
+            "expires": 1784161553,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 34559975.19688797,
+                "days": 399.9997129269441,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: reddit.com, Cookie: reddit.com",
+            "tracking_purpose": "Unknown"
+        }
+    ],
+    "localStorage": {
+        "_grecaptcha": "09ANMylNCDA9Gc8DSWfO7IQFih2sE1v5aLYgwr6a4iBr8_6TWVj14tDU8gbK7dr5I1ouyv1c4XH76QyAOuZ6APGHUQglVIpsb2mtHTI14wmv1qQ2fIUyl4HhsUAzqpP2Ut"
+    },
+    "sessionStorage": {
+        "serverTimestamps": "{\"1749601560296\":false}"
+    },
+    "source": "selenium",
+    "third_party_cookies": [],
+    "third_party_count": 0
+}

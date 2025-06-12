@@ -1,0 +1,16 @@
+{
+    "url": "https://www.twitter.com",
+    "timestamp": "2025-05-24T12:43:38.866724",
+    "cookies": [
+        {
+            "name": "__cf_bm",
+            "value": "E467PfWTsucxvUIA_1RjP60xB5C17jACzXDQfhlqlxA-1748061817-1.0.1.1-Pu4QJzzojxQQtBqzUlDvs1isnvbeiWq2qLhFpsbqDWTmKxYZTcD29lE18MFGIUqlEaFpTtUxvku7CniZZvyksVmCtrmJcFOBzhOLPXQIfgI",
+            "domain": ".twitter.com",
+            "path": "/",
+            "expires": "Sat, 24-May-25 05:13:37 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": "None"
+        }
+    ]
+}

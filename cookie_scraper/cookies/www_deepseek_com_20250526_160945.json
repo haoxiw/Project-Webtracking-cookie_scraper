@@ -1,0 +1,64 @@
+{
+    "url": "https://www.deepseek.com",
+    "timestamp": "2025-05-26T16:09:45.441995",
+    "cookies": [
+        {
+            "name": "NEXT_LOCALE",
+            "value": "zh",
+            "domain": "www.deepseek.com",
+            "path": "/",
+            "expires": "",
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        },
+        {
+            "name": "HWWAFSESTIME",
+            "value": "1748246971038",
+            "domain": "www.deepseek.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        },
+        {
+            "name": "HWWAFSESID",
+            "value": "4ec5a7f432bb066be8",
+            "domain": "www.deepseek.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        }
+    ],
+    "localStorage": {
+        "__appKit_@deepseek/blog_debugPanelEnabled": "{\"value\":false,\"__version\":\"0\"}",
+        "__appKit_@deepseek/blog_lastSessionValue": "{\"value\":{},\"__version\":\"0\"}",
+        "__tea_cache_first_20006840": "1",
+        "__tea_cache_tokens_20006840": "{\"web_id\":\"7508663574366082052\",\"user_unique_id\":\"7508663574366082052\",\"timestamp\":1748246973388,\"_type_\":\"default\"}"
+    },
+    "sessionStorage": {
+        "__tea_session_id_20006840": "{\"sessionId\":\"af9a59f3-2880-472d-a455-be1aedf94a1f\",\"timestamp\":1748246973389}"
+    },
+    "source": "selenium"
+}

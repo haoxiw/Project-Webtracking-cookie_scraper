@@ -1,0 +1,182 @@
+{
+    "url": "https://www.x.com",
+    "timestamp": "2025-06-11T08:24:31.756111",
+    "cookies": [
+        {
+            "name": "ct0",
+            "value": "a3ded6d2b1ebb39ac04e78f7b1defb2e",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1749623065,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 21593.252039909363,
+                "days": 0.24992189861006206,
+                "readable": "5 hours",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Twitter Tracking"
+        },
+        {
+            "name": "gt",
+            "value": "1932594625824387283",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1749610439,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 8967.252039909363,
+                "days": 0.1037876393508028,
+                "readable": "2 hours",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "personalization_id",
+            "value": "\"v1_nCLDYlvtyeDTAeqIzd2nrA==\"",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1784161439,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559967.25203991,
+                "days": 399.9996209726841,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.1.768492591.1749601470",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1784161469,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 34559997.25203991,
+                "days": 399.99996819490633,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "__cf_bm",
+            "value": "71RREEhwgyEdqm63tGHQGESo8D_.p0HydUfYUn5C.gw-1749601437-1.0.1.1-c4rO7z0rik900c7a0b.2.rkz_D.bHLA0CBe68JNEnQ7oF4UUWM0SRVEvXmx5EVzU9pKetLJ0VhXpUVgnj5Rv7EYgjZqYsrCZB48aK6PvOlw",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1749603237,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 1765.2520399093628,
+                "days": 0.02043115786932133,
+                "readable": "29 minutes",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "guest_id_marketing",
+            "value": "v1%3A174960143930738472",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1784161439,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559967.25203991,
+                "days": 399.9996209726841,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Advertising"
+        },
+        {
+            "name": "guest_id",
+            "value": "v1%3A174960143930738472",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1784161439,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559967.25203991,
+                "days": 399.9996209726841,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "_ga_Z8SSQG6MF6",
+            "value": "GS2.1.s1749601469$o1$g0$t1749601469$j60$l0$h0",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1784161469,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 34559997.25203991,
+                "days": 399.99996819490633,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "guest_id_ads",
+            "value": "v1%3A174960143930738472",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1784161439,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559967.25203991,
+                "days": 399.9996209726841,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Advertising"
+        }
+    ],
+    "localStorage": {},
+    "sessionStorage": {},
+    "source": "selenium",
+    "third_party_cookies": [],
+    "third_party_count": 0
+}

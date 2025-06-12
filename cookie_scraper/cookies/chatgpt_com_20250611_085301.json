@@ -1,0 +1,23 @@
+{
+    "url": "https://chatgpt.com",
+    "timestamp": "2025-06-11T08:53:01.602668",
+    "cookies": [
+        {
+            "name": "__cf_bm",
+            "value": "7AR.QhXwEoJkCe3vQgWPnCXxLC7gXcwRCI_gnazbcmM-1749603181-1.0.1.1-V1s1RIX4npIoChB9qEGrMqnsxVPuqYphqd40ePAh5Z7Hxna0mCPG1OdHjh4QpJAHpgWKe5tbrddPFVQVUjIxobBRNrV12hg57pPqTIof_FY",
+            "domain": ".chatgpt.com",
+            "path": "/",
+            "expires": "Wed, 11-Jun-25 01:23:01 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        }
+    ],
+    "source": "scrapy"
+}

@@ -1,0 +1,150 @@
+{
+    "url": "https://chatgpt.com",
+    "timestamp": "2025-05-26T16:30:32.525099",
+    "cookies": [
+        {
+            "name": "__Secure-next-auth.callback-url",
+            "value": "https%3A%2F%2Fchatgpt.com",
+            "domain": "chatgpt.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        },
+        {
+            "name": "__cflb",
+            "value": "0H28vzvP5FJafnkHxismneyU88nn9MN3ctqfGaJBSGs",
+            "domain": "chatgpt.com",
+            "path": "/",
+            "expires": 1748251808,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 3575.4887821674347,
+                "days": 0.04138297201582679,
+                "readable": "59 minutes",
+                "is_session": false
+            }
+        },
+        {
+            "name": "_dd_s",
+            "value": "rum=0&expire=1748249125478&logs=1&id=747488f3-8b37-4f93-b021-8cc9b6ad46a1&created=1748248220226",
+            "domain": "chatgpt.com",
+            "path": "/",
+            "expires": 1748249132,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Strict",
+            "age": {
+                "seconds": 899.4887821674347,
+                "days": 0.010410749793604568,
+                "readable": "14 minutes",
+                "is_session": false
+            }
+        },
+        {
+            "name": "cf_clearance",
+            "value": "VNExLn1qaWexgt9FeB19EIduFAV6gGPANoAlfljZPqY-1748248216-1.2.1.1-RrwgTPaXGPy9ylzLmDtsUfekFShnJs6QAZk9f1l9vBcbSLXtWNnNPJ1o6fFr99YstdBY9ioE6j9V3gYzmyquu3DH50l.ypXe.D_MW2rhVO0MrRMpgodf2iGZIQRQbNSJEAXAyGe5qLaukV7X9sB1NrFs.o_QUfBdncFSP0BvB7zVdTBTu7NUhDp7EV1d3JZDvIC6sL.g.eXAzNS06rIZ1.3bjrS0ZWGGSQtnCYgovPUjCN_45ghjKVHW2MT8wYoHlC4uAdzm91I2SKiGdbuRFXyNz0Q8X7LoaGwyoGfTvgYvpD2ByVx0DvcznmNvCEId7zOrSSdWTjRDnHHNRq.r4rb4NIMHybtj5YU29hduzZQ",
+            "domain": ".chatgpt.com",
+            "path": "/",
+            "expires": 1779784216,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 31535983.488782167,
+                "days": 364.99980889794176,
+                "readable": "12 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "_cfuvid",
+            "value": "ItfzZ0K0iNpWMGC589usGuYg0Op_NuQ7ZQCpQ_H1F9g-1748248208706-0.0.1.1-604800000",
+            "domain": ".chatgpt.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        },
+        {
+            "name": "__cf_bm",
+            "value": "yhpsGt5JGmNYNXVyFa2WTid_W9TkccVc5CXEq4Q35kE-1748248208-1.0.1.1-t8zVbS1CgW8Wt_hcj7PwpC8piCzHOwdx4CCd_XrNiFXHB6Jy2t3yCs7NAQ6QbaEOn0BDEFyE3KwZI59b2Z7.bIH0SLhHdRbPW3fIevzhVmw",
+            "domain": ".chatgpt.com",
+            "path": "/",
+            "expires": 1748250008,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 1775.4887821674347,
+                "days": 0.020549638682493456,
+                "readable": "29 minutes",
+                "is_session": false
+            }
+        },
+        {
+            "name": "oai-did",
+            "value": "fb774343-193a-4dfd-a919-c3be8e449034",
+            "domain": ".chatgpt.com",
+            "path": "/",
+            "expires": 1779352208,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 31103975.488782167,
+                "days": 359.9997163053492,
+                "readable": "11 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "__Host-next-auth.csrf-token",
+            "value": "ba3b3739d0a1c518471f64f8c5723195033383d1384f5101ac7adc9b21a9ff9a%7Cc7d3e431e0a2ec9347c1bf2f3abf20d550831b3113a4ab116a21253710c08ee3",
+            "domain": "chatgpt.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        }
+    ],
+    "localStorage": {
+        "client-correlated-secret": "{\"alg\":\"HS512\",\"ext\":true,\"k\":\"FqAyX922NHu9Qpj732hgGeWIbSVFrEn4vaHGsFHGVnJPCl20ZGWJrDl-jqfgUjFg1trwERajTf0t_XAJK1irFF69Yg0XikANCqf6ZMdas95x3uERuGsz1B7fzGi0hAjrwc2Z11vOzgLNAIaQKtON7hKDgp_P7nZOQQGHulb1HLM\",\"key_ops\":[\"sign\",\"verify\"],\"kty\":\"oct\"}",
+        "oai-did": "\"fb774343-193a-4dfd-a919-c3be8e449034\"",
+        "oai/apps/caUpsellBanner": "{\"state\":{},\"version\":0}",
+        "oai/apps/caUserUpsellBanner": "{\"state\":{},\"version\":0}",
+        "oai/apps/capExpiresAt": "{\"state\":{\"isoDate\":\"\"},\"version\":0}",
+        "oai/apps/debugSettings": "{\"state\":{\"enableFConversationEndpoint\":false,\"showCompletionPerfData\":false,\"jsonViewerFilters\":{},\"recordRendering\":false},\"version\":0}",
+        "oai/apps/hasSeenNewChatModal": "true",
+        "oai/apps/hasSeenNoAuthImagegenNux": "false",
+        "oai/apps/lastPageLoadDate": "\"2025-05-26T08:30:20.302Z\"",
+        "search.attributions-settings": "{\"state\":{\"debugMode\":false,\"viewModelPredictedFallback\":false,\"disableSegmentReplacement\":false,\"useSigmoid\":true,\"influenceTemperature\":0.2,\"probThreshold\":0.45,\"probBaseline\":0.02},\"version\":8}",
+        "statsig.session_id.1792610830": "{\"sessionID\":\"eef6d090-979d-40b3-b32b-e79484c5d32e\",\"startTime\":1748248220302,\"lastUpdate\":1748248231140}",
+        "statsig.stable_id.1792610830": "\"fb774343-193a-4dfd-a919-c3be8e449034\""
+    },
+    "sessionStorage": {},
+    "source": "selenium"
+}

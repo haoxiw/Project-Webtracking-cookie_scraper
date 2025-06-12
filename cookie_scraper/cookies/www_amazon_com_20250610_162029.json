@@ -1,0 +1,87 @@
+{
+    "url": "https://www.amazon.com",
+    "timestamp": "2025-06-10T16:20:29.506223",
+    "cookies": [
+        {
+            "name": "session-id",
+            "value": "136-8078996-0543811",
+            "domain": ".amazon.com",
+            "path": "/",
+            "expires": "Wed, 10-Jun-2026 08:20:28 GMT",
+            "secure": true,
+            "httponly": false,
+            "samesite": "",
+            "age": {
+                "seconds": 31507198.49393201,
+                "days": 364.6666492353242,
+                "readable": "12 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "session-id-time",
+            "value": "2082787201l",
+            "domain": ".amazon.com",
+            "path": "/",
+            "expires": "Wed, 10-Jun-2026 08:20:28 GMT",
+            "secure": true,
+            "httponly": false,
+            "samesite": "",
+            "age": {
+                "seconds": 31507198.493915796,
+                "days": 364.6666492351365,
+                "readable": "12 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "i18n-prefs",
+            "value": "USD",
+            "domain": ".amazon.com",
+            "path": "/",
+            "expires": "Wed, 10-Jun-2026 08:20:28 GMT",
+            "secure": false,
+            "httponly": false,
+            "samesite": "",
+            "age": {
+                "seconds": 31507198.49390483,
+                "days": 364.6666492350096,
+                "readable": "12 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "lc-main",
+            "value": "en_US",
+            "domain": ".amazon.com",
+            "path": "/",
+            "expires": "Wed, 10-Jun-2026 08:20:28 GMT",
+            "secure": false,
+            "httponly": false,
+            "samesite": "",
+            "age": {
+                "seconds": 31507198.493896008,
+                "days": 364.6666492349075,
+                "readable": "12 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "skin",
+            "value": "noskin",
+            "domain": ".amazon.com",
+            "path": "/",
+            "expires": "",
+            "secure": false,
+            "httponly": false,
+            "samesite": "",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        }
+    ],
+    "source": "scrapy"
+}

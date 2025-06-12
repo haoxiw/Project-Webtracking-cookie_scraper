@@ -1,0 +1,23 @@
+{
+    "url": "https://www.reddit.com",
+    "timestamp": "2025-06-10T16:20:29.499132",
+    "cookies": [
+        {
+            "name": "edgebucket",
+            "value": "MNEj0qg8qV4vV4LEzD",
+            "domain": "reddit.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": false,
+            "samesite": "",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        }
+    ],
+    "source": "scrapy"
+}

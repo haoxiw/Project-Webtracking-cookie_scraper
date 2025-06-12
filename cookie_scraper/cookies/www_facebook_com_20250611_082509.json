@@ -1,0 +1,94 @@
+{
+    "url": "https://www.facebook.com",
+    "timestamp": "2025-06-11T08:25:09.020642",
+    "cookies": [
+        {
+            "name": "wd",
+            "value": "1920x941",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1750206303,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 604793.9894039631,
+                "days": 6.99993043291624,
+                "readable": "6 days",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: facebook.com, Cookie: facebook.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "sb",
+            "value": "1cxIaNlYxRZmz-hKNslcPKRX",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1784161493,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559983.98940396,
+                "days": 399.9998146921755,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: facebook.com, Cookie: facebook.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "fr",
+            "value": "0KrKl0BxAaNyQ3WfY..BoSMzV..AAA.0.0.BoSMzV.AWeVR-PZgSZqVWqY-qSL2_XHCt4",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1757377493,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 7775983.989403963,
+                "days": 89.9998146921755,
+                "readable": "2 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: facebook.com, Cookie: facebook.com",
+            "tracking_purpose": "Facebook Tracking"
+        },
+        {
+            "name": "datr",
+            "value": "1cxIaBVVLf_5oAJQIjekwO_X",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1784161493,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559983.98940396,
+                "days": 399.9998146921755,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: facebook.com, Cookie: facebook.com",
+            "tracking_purpose": "Unknown"
+        }
+    ],
+    "localStorage": {
+        "Session": "963ox2:1749601538892",
+        "hb_timestamp": "1749601498527",
+        "signal_flush_timestamp": "1749601498534"
+    },
+    "sessionStorage": {
+        "TabId": "1v4hy6",
+        "sp_pi": "{\"pageInfo\":{\"scriptPath\":\"XIndexReduxController\",\"categoryToken\":\"a1f3c513\",\"extraData\":{\"imp_id\":\"1Gk4V1SjXxXQOLg7E\",\"ef_page\":null,\"uri\":\"https://www.facebook.com/\"}},\"clickPoint\":null,\"time\":1749601498725}"
+    },
+    "source": "selenium",
+    "third_party_cookies": [],
+    "third_party_count": 0
+}

@@ -1,0 +1,80 @@
+{
+    "url": "https://www.facebook.com",
+    "timestamp": "2025-05-26T16:19:18.282896",
+    "cookies": [
+        {
+            "name": "wd",
+            "value": "1920x941",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1748852353,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 604794.734074831,
+                "days": 6.999939051792025,
+                "readable": "6 days",
+                "is_session": false
+            }
+        },
+        {
+            "name": "sb",
+            "value": "9iM0aNLUxIQNL6Zg-eA1Tusf",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1782807543,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559984.73407483,
+                "days": 399.9998233110513,
+                "readable": "1 years",
+                "is_session": false
+            }
+        },
+        {
+            "name": "fr",
+            "value": "0toC4nYo5cVi9WdYY..BoNCP2..AAA.0.0.BoNCP2.AWeUNCH9MzOhaemWd5XqmoW1RXo",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1756023543,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 7775984.734074831,
+                "days": 89.99982331105129,
+                "readable": "2 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "datr",
+            "value": "9iM0aIvxdDgSYG3hLBLwTFFh",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1782807543,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559984.73407483,
+                "days": 399.9998233110513,
+                "readable": "1 years",
+                "is_session": false
+            }
+        }
+    ],
+    "localStorage": {
+        "Session": "5a7vm1:1748247588151",
+        "hb_timestamp": "1748247547703",
+        "signal_flush_timestamp": "1748247547719"
+    },
+    "sessionStorage": {
+        "TabId": "kjuhb8",
+        "sp_pi": "{\"pageInfo\":{\"scriptPath\":\"XIndexReduxController\",\"categoryToken\":\"a1f3c513\",\"extraData\":{\"imp_id\":\"1jVqVvZ0g1DUeBV8O\",\"ef_page\":null,\"uri\":\"https://www.facebook.com/\"}},\"clickPoint\":null,\"time\":1748247547932}"
+    },
+    "source": "selenium"
+}

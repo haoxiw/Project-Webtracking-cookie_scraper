@@ -1,0 +1,105 @@
+{
+    "url": "https://chatgpt.com",
+    "timestamp": "2025-05-26T16:25:30.530189",
+    "cookies": [
+        {
+            "name": "__Secure-next-auth.callback-url",
+            "value": "https%3A%2F%2Fchatgpt.com",
+            "domain": "chatgpt.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        },
+        {
+            "name": "__cflb",
+            "value": "0H28vzvP5FJafnkHxisu3R3fkFPUBQsBeeoncjiQMMV",
+            "domain": "chatgpt.com",
+            "path": "/",
+            "expires": 1748251518,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 3587.4845008850098,
+                "days": 0.04152181135283576,
+                "readable": "59 minutes",
+                "is_session": false
+            }
+        },
+        {
+            "name": "_cfuvid",
+            "value": ".ZqWouTJUadEPQ8PL5hMfg3TMUVUN4TPskuXXWWy0Ig-1748247918288-0.0.1.1-604800000",
+            "domain": ".chatgpt.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        },
+        {
+            "name": "__cf_bm",
+            "value": "X0oedZs07sNQ09yoBNvIKoYVYlO45j4EZa4jx1FlwDA-1748247918-1.0.1.1-BqdD8cjAS6g.gzOrZ1Zl__Gm_iRrgfvFqzzHK1fX4a7kPtdGwyFsoibsnpZtFCeRqfirP_IjER_xaSPQ46Ro2cGsiI5nkLw0IG9yBoKj_uk",
+            "domain": ".chatgpt.com",
+            "path": "/",
+            "expires": 1748249718,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 1787.4845008850098,
+                "days": 0.020688478019502427,
+                "readable": "29 minutes",
+                "is_session": false
+            }
+        },
+        {
+            "name": "oai-did",
+            "value": "0f59bb80-aecd-474f-aa9c-b439fefc7c7f",
+            "domain": ".chatgpt.com",
+            "path": "/",
+            "expires": 1779351918,
+            "secure": false,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 31103987.484500885,
+                "days": 359.9998551446862,
+                "readable": "11 months",
+                "is_session": false
+            }
+        },
+        {
+            "name": "__Host-next-auth.csrf-token",
+            "value": "ce104b268ed5317defd07d7495ea5a87f7a1b2592ecf20b0cc0bd932bc66bbf6%7Ca484e35efca2eaad3e603bd4dceef859152059c2560dd8199cfa0b01140ef08c",
+            "domain": "chatgpt.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            }
+        }
+    ],
+    "localStorage": {},
+    "sessionStorage": {},
+    "source": "selenium"
+}

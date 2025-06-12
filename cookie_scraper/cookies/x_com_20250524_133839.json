@@ -1,0 +1,69 @@
+{
+    "url": "https://x.com/",
+    "timestamp": "2025-05-24T13:38:39.626321",
+    "cookies": [
+        {
+            "name": "gt",
+            "value": "1926150754324095272",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1748074100,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax"
+        },
+        {
+            "name": "guest_id_marketing",
+            "value": "v1%3A174806510061991997",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1782625100,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None"
+        },
+        {
+            "name": "__cf_bm",
+            "value": "a9WIQeazqAQVQJU7J59Ehfqrb2tQpDEHSuvGWH0IEcY-1748065100-1.0.1.1-cGL5pm9PsWTTBzmRItvI9s7IgzOiHgPyFS.Zrgv634dPwqsTFGP9cT2VMZnm5LAXH8vJByG7GBcnYTug9rjK_sxAow05jrhyC20e._MdptE",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1748066900,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None"
+        },
+        {
+            "name": "guest_id",
+            "value": "v1%3A174806510061991997",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1782625100,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None"
+        },
+        {
+            "name": "guest_id_ads",
+            "value": "v1%3A174806510061991997",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1782625100,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None"
+        },
+        {
+            "name": "personalization_id",
+            "value": "\"v1_03xvHmrHlPTFO6K/1+p4dA==\"",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1782625100,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None"
+        }
+    ],
+    "localStorage": {},
+    "sessionStorage": {},
+    "source": "selenium"
+}

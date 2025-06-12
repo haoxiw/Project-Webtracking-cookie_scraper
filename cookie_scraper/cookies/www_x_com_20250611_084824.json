@@ -1,0 +1,125 @@
+{
+    "url": "https://www.x.com",
+    "timestamp": "2025-06-11T08:48:24.224385",
+    "cookies": [
+        {
+            "name": "personalization_id",
+            "value": "\"v1_yRS73jMgpXGD0rFN7sYTxQ==\"",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1784162897,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559992.79057503,
+                "days": 399.99991655758134,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "gt",
+            "value": "1932600625344270541",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1749611869,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 8964.790575027466,
+                "days": 0.103759150173929,
+                "readable": "2 hours",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "__cf_bm",
+            "value": "ueer2DScYVH9gylPzopBrASlVEjUvFFKDRcUYak1iaI-1749602867-1.0.1.1-Tcqn3d9KXaJGev1MIth4dm.YpW3A6Qh_WE2cl56C62k7WfFntTYS.i6rs_MmMyb6G1h9wu4bCJdYhq7fA_sM29sI8wpCQ7W6unufWKdXjuA",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1749604667,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 1762.7905750274658,
+                "days": 0.020402668692447522,
+                "readable": "29 minutes",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "guest_id_marketing",
+            "value": "v1%3A174960286969402569",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1784162897,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559992.79057503,
+                "days": 399.99991655758134,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Advertising"
+        },
+        {
+            "name": "guest_id",
+            "value": "v1%3A174960286969402569",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1784162869,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559964.79057503,
+                "days": 399.9995924835073,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "guest_id_ads",
+            "value": "v1%3A174960286969402569",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1784162897,
+            "secure": true,
+            "httponly": false,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559992.79057503,
+                "days": 399.99991655758134,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: x.com, Cookie: x.com",
+            "tracking_purpose": "Advertising"
+        }
+    ],
+    "localStorage": {},
+    "sessionStorage": {},
+    "source": "selenium",
+    "third_party_cookies": [],
+    "third_party_count": 0
+}

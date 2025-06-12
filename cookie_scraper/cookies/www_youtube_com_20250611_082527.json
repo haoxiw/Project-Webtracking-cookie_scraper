@@ -1,0 +1,139 @@
+{
+    "url": "https://www.youtube.com",
+    "timestamp": "2025-06-11T08:25:27.806990",
+    "cookies": [
+        {
+            "name": "PREF",
+            "value": "f4=4000000&tz=Asia.Shanghai",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1784161521,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 34559993.202086926,
+                "days": 399.99992132045054,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: youtube.com, Cookie: youtube.com",
+            "tracking_purpose": "Preferences/Consent"
+        },
+        {
+            "name": "YSC",
+            "value": "sBLwegmkTVY",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": null,
+                "days": null,
+                "readable": "Session cookie (expires when browser closes)",
+                "is_session": true
+            },
+            "is_third_party": false,
+            "domain_info": "Page: youtube.com, Cookie: youtube.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "__Secure-ROLLOUT_TOKEN",
+            "value": "CI738_e9wPnhggEQtrnXxI3ojQMYn4zuxo3ojQM%3D",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1765153515,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 15551987.202086926,
+                "days": 179.9998518760061,
+                "readable": "5 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: youtube.com, Cookie: youtube.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "VISITOR_PRIVACY_METADATA",
+            "value": "CgJVUxIEGgAgSw%3D%3D",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1765153516,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 15551988.202086926,
+                "days": 179.99986345008017,
+                "readable": "5 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: youtube.com, Cookie: youtube.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "VISITOR_INFO1_LIVE",
+            "value": "DL_-uHTKVYY",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1765153516,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 15551988.202086926,
+                "days": 179.99986345008017,
+                "readable": "5 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: youtube.com, Cookie: youtube.com",
+            "tracking_purpose": "Analytics"
+        },
+        {
+            "name": "GPS",
+            "value": "1",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1749603311,
+            "secure": true,
+            "httponly": true,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 1783.2020869255066,
+                "days": 0.020638913043119288,
+                "readable": "29 minutes",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: youtube.com, Cookie: youtube.com",
+            "tracking_purpose": "Unknown"
+        }
+    ],
+    "localStorage": {
+        "V03e073f9||::yt-player::yt-player-lv": "{\"data\":\"{}\",\"creation\":1749601517721}",
+        "yt-icons-last-purged": "1744849514156",
+        "yt-remote-connected-devices": "{\"data\":\"[]\",\"expiration\":1749687917876,\"creation\":1749601517876}",
+        "yt-remote-device-id": "{\"data\":\"ef55ecfd-f52d-4893-bc54-ce9855cbec2d\",\"expiration\":1781137517875,\"creation\":1749601517875}",
+        "ytidb::LAST_RESULT_ENTRY_KEY": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1752193514246,\"creation\":1749601514247}"
+    },
+    "sessionStorage": {
+        "19adb2fc-291bcfd": "l9zEc+1pYOY7D37i+m1sqF4sExvpDxgYBZ2tF7+bsbNXel5CPRgjhWVEtbhlkDMX7aUtOOBy6G2KOnP21iVmJy2z4ycuie8JcpHQ/yvg+90/h8xFcEq62pYiTM8HvQTyg/hnp68Rlau+Y0RHwVoBwW6MLRQWwuNcV4Iqqura8cwtum2mEUVLZC09tLRSDsH7",
+        "iU5q-!O9@$": "1,19adb2fc-291bcfd",
+        "yt-remote-cast-available": "{\"data\":\"false\",\"creation\":1749601518500}",
+        "yt-remote-cast-installed": "{\"data\":\"true\",\"creation\":1749601518500}",
+        "yt-remote-fast-check-period": "{\"data\":\"1749601817876\",\"creation\":1749601517876}",
+        "yt-remote-session-app": "{\"data\":\"youtube-desktop\",\"creation\":1749601517876}",
+        "yt-remote-session-name": "{\"data\":\"Desktop\",\"creation\":1749601517876}"
+    },
+    "source": "selenium",
+    "third_party_cookies": [],
+    "third_party_count": 0
+}

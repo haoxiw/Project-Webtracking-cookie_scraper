@@ -1,0 +1,56 @@
+{
+    "url": "https://www.youtube.com",
+    "timestamp": "2025-05-24T12:49:54.207072",
+    "cookies": [
+        {
+            "name": "GPS",
+            "value": "1",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": "Sat, 24-May-2025 05:19:50 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": ""
+        },
+        {
+            "name": "YSC",
+            "value": "Dj1CQUDAULQ",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": "",
+            "secure": true,
+            "httponly": true,
+            "samesite": "none"
+        },
+        {
+            "name": "__Secure-ROLLOUT_TOKEN",
+            "value": "CID-nqaq-5vWgAEQgaiuj6e7jQMYgaiuj6e7jQM%3D",
+            "domain": "youtube.com",
+            "path": "/",
+            "expires": "Thu, 20-Nov-2025 04:49:50 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": "none"
+        },
+        {
+            "name": "VISITOR_INFO1_LIVE",
+            "value": "eTBRLMXCiAs",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": "Thu, 20-Nov-2025 04:49:50 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": "none"
+        },
+        {
+            "name": "VISITOR_PRIVACY_METADATA",
+            "value": "CgJVUxIEGgAgRQ%3D%3D",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": "Thu, 20-Nov-2025 04:49:50 GMT",
+            "secure": true,
+            "httponly": true,
+            "samesite": "none"
+        }
+    ]
+}

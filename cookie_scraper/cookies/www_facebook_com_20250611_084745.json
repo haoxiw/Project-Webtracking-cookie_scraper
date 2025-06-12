@@ -1,0 +1,94 @@
+{
+    "url": "https://www.facebook.com",
+    "timestamp": "2025-06-11T08:47:45.942042",
+    "cookies": [
+        {
+            "name": "wd",
+            "value": "1920x941",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1750207660,
+            "secure": true,
+            "httponly": false,
+            "samesite": "Lax",
+            "age": {
+                "seconds": 604794.0714318752,
+                "days": 6.99993138231337,
+                "readable": "6 days",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: facebook.com, Cookie: facebook.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "sb",
+            "value": "ItJIaH_d-Lpd-Jp0JJbS7lE4",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1784162850,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559984.071431875,
+                "days": 399.99981564157264,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: facebook.com, Cookie: facebook.com",
+            "tracking_purpose": "Unknown"
+        },
+        {
+            "name": "fr",
+            "value": "0giUeEvcfvutoklIS..BoSNIi..AAA.0.0.BoSNIi.AWcapRv5NmthKJSBQE6WQpVXs4o",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1757378850,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 7775984.071431875,
+                "days": 89.99981564157262,
+                "readable": "2 months",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: facebook.com, Cookie: facebook.com",
+            "tracking_purpose": "Facebook Tracking"
+        },
+        {
+            "name": "datr",
+            "value": "ItJIaK2jf5Uhao3Mxcn4Hq1d",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1784162850,
+            "secure": true,
+            "httponly": true,
+            "samesite": "None",
+            "age": {
+                "seconds": 34559984.071431875,
+                "days": 399.99981564157264,
+                "readable": "1 years",
+                "is_session": false
+            },
+            "is_third_party": false,
+            "domain_info": "Page: facebook.com, Cookie: facebook.com",
+            "tracking_purpose": "Unknown"
+        }
+    ],
+    "localStorage": {
+        "Session": "nwr8cd:1749602895808",
+        "hb_timestamp": "1749602855294",
+        "signal_flush_timestamp": "1749602855306"
+    },
+    "sessionStorage": {
+        "TabId": "pcrlk5",
+        "sp_pi": "{\"pageInfo\":{\"scriptPath\":\"XIndexReduxController\",\"categoryToken\":\"a1f3c513\",\"extraData\":{\"imp_id\":\"1n0Xg9TVS1pSxjJCn\",\"ef_page\":null,\"uri\":\"https://www.facebook.com/\"}},\"clickPoint\":null,\"time\":1749602855614}"
+    },
+    "source": "selenium",
+    "third_party_cookies": [],
+    "third_party_count": 0
+}
