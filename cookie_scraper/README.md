@@ -1,6 +1,6 @@
 # Cookie Scraper
 
-A powerful tool to download and save cookies from websites using both Scrapy and Selenium. This tool helps analyze cookie usage across different websites, which can be useful for privacy research and compliance checks.
+Use this tool to download and save cookies from websites using both Scrapy and Selenium. This tool helps analyze cookie usage across different websites, which can be useful for privacy research and compliance checks.
 
 ## Features
 
