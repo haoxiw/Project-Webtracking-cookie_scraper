@@ -1,0 +1,65 @@
+[
+{
+    "domain": "www.deepseek.com",
+    "url": "https://www.deepseek.com",
+    "cookies_count": 2,
+    "file_saved": "/Users/pengxiaotao/Documents/gitroom/homework/2025/P-2025-05-22-privacy/cookie_scraper/cookies/www_deepseek_com_20250611_085300.json",
+    "source": "scrapy"
+},
+{
+    "domain": "grok.com",
+    "url": "https://grok.com",
+    "cookies_count": 0,
+    "file_saved": null,
+    "source": "scrapy"
+},
+{
+    "domain": "www.x.com",
+    "url": "https://www.x.com",
+    "cookies_count": 1,
+    "file_saved": "/Users/pengxiaotao/Documents/gitroom/homework/2025/P-2025-05-22-privacy/cookie_scraper/cookies/www_x_com_20250611_085301.json",
+    "source": "scrapy"
+},
+{
+    "domain": "www.amazon.com",
+    "url": "https://www.amazon.com",
+    "cookies_count": 0,
+    "file_saved": null,
+    "source": "scrapy"
+},
+{
+    "domain": "chatgpt.com",
+    "url": "https://chatgpt.com",
+    "cookies_count": 1,
+    "file_saved": "/Users/pengxiaotao/Documents/gitroom/homework/2025/P-2025-05-22-privacy/cookie_scraper/cookies/chatgpt_com_20250611_085301.json",
+    "source": "scrapy"
+},
+{
+    "domain": "www.facebook.com",
+    "url": "https://www.facebook.com",
+    "cookies_count": 0,
+    "file_saved": null,
+    "source": "scrapy"
+},
+{
+    "domain": "www.google.com",
+    "url": "https://www.google.com",
+    "cookies_count": 2,
+    "file_saved": "/Users/pengxiaotao/Documents/gitroom/homework/2025/P-2025-05-22-privacy/cookie_scraper/cookies/www_google_com_20250611_085302.json",
+    "source": "scrapy"
+},
+{
+    "domain": "www.youtube.com",
+    "url": "https://www.youtube.com",
+    "cookies_count": 5,
+    "file_saved": "/Users/pengxiaotao/Documents/gitroom/homework/2025/P-2025-05-22-privacy/cookie_scraper/cookies/www_youtube_com_20250611_085302.json",
+    "source": "scrapy"
+},
+{
+    "domain": "www.reddit.com",
+    "url": "https://www.reddit.com",
+    "cookies_count": 1,
+    "file_saved": "/Users/pengxiaotao/Documents/gitroom/homework/2025/P-2025-05-22-privacy/cookie_scraper/cookies/www_reddit_com_20250611_085302.json",
+    "source": "scrapy"
+}
+]
